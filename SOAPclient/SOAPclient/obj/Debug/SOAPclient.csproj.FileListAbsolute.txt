@@ -1,0 +1,15 @@
+D:\4 курс\Корпоративные ИС\SOAPclient\SOAPclient\bin\Debug\SOAPclient.exe.config
+D:\4 курс\Корпоративные ИС\SOAPclient\SOAPclient\bin\Debug\SOAPclient.exe
+D:\4 курс\Корпоративные ИС\SOAPclient\SOAPclient\bin\Debug\SOAPclient.pdb
+D:\4 курс\Корпоративные ИС\SOAPclient\SOAPclient\obj\Debug\SOAPclient.csprojAssemblyReference.cache
+D:\4 курс\Корпоративные ИС\SOAPclient\SOAPclient\obj\Debug\App.g.cs
+D:\4 курс\Корпоративные ИС\SOAPclient\SOAPclient\obj\Debug\SOAPclient_MarkupCompile.cache
+D:\4 курс\Корпоративные ИС\SOAPclient\SOAPclient\obj\Debug\SOAPclient_MarkupCompile.lref
+D:\4 курс\Корпоративные ИС\SOAPclient\SOAPclient\obj\Debug\SOAPclient.g.resources
+D:\4 курс\Корпоративные ИС\SOAPclient\SOAPclient\obj\Debug\SOAPclient.Properties.Resources.resources
+D:\4 курс\Корпоративные ИС\SOAPclient\SOAPclient\obj\Debug\SOAPclient.csproj.GenerateResource.cache
+D:\4 курс\Корпоративные ИС\SOAPclient\SOAPclient\obj\Debug\SOAPclient.csproj.CoreCompileInputs.cache
+D:\4 курс\Корпоративные ИС\SOAPclient\SOAPclient\obj\Debug\SOAPclient.exe
+D:\4 курс\Корпоративные ИС\SOAPclient\SOAPclient\obj\Debug\SOAPclient.pdb
+D:\4 курс\Корпоративные ИС\SOAPclient\SOAPclient\obj\Debug\MainWindow.g.cs
+D:\4 курс\Корпоративные ИС\SOAPclient\SOAPclient\obj\Debug\MainWindow.baml
